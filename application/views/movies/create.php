@@ -1,6 +1,6 @@
 <form action="/movies/create/" method="post">
 	
-	<input class="form-control input-lg" type="input" name="slug" placeholder="слизняк"><br>
+	<input class="form-control input-lg" type="input" name="slug" placeholder="слизняк2"><br>
 	<input class="form-control input-lg" type="input" name="name" placeholder="название фильма"><br>
 	<textarea class="form-control input-lg" name="descriptions" placeholder="описание"></textarea><br>
 	<input class="form-control input-lg" type="input" name="year" placeholder="год"><br>
